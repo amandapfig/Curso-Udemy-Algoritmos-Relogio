@@ -1,4 +1,3 @@
-# Curso-Udemy---Algoritmos-Relogio
 # Relógio Digital com Python e Tkinter
 
 ## Sobre o projeto
